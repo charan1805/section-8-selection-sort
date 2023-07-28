@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\bin\Debug\selection sort.exe.config
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\bin\Debug\selection sort.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\bin\Debug\selection sort.pdb
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\obj\Debug\selection sort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\obj\Debug\selection sort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\obj\Debug\selection sort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\obj\Debug\selection sort.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\selection sort\obj\Debug\selection sort.pdb
